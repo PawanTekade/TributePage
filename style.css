@@ -1,0 +1,24 @@
+
+#main{
+    text-align: center;
+    background-color: khaki;
+}
+
+
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    background-color: hsl(54°, 76.9%, 74.5%);
+}
+
+#title{
+    font-family: cursive;
+    font-size: 54px;
+}
+
+
+#tribute-info{
+    font-family: cursive;
+    font-size: 18px;
+}
